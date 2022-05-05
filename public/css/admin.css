@@ -1,0 +1,37 @@
+body {
+  padding: 70px 0 0 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.card {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.card-body {
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  font-weight: bold;
+  border: solid 3px #000000;
+  letter-spacing: 0.05em;
+}
+
+.ett {
+  display: block;
+  text-align: center;
+}
+
+.enti {
+  display: block;
+  text-align: center;
+}
+
+.eee {
+  display: block;
+  text-align: center;
+}
+
+.bosen {
+  text-decoration: underline;
+}

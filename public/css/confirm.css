@@ -1,0 +1,32 @@
+body {
+  padding: 70px 0 0 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.next {
+  padding-left:50px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.ett{
+  display: block;
+  text-align: center;
+}
+
+.enti {
+  display: block;
+  text-align: center;
+}
+
+.bosen{
+  text-decoration:underline;
+}
+
+.panel-heading{
+    display: block;
+    font-weight:bold;
+    font-size: 20px;
+    text-align: center;
+}
